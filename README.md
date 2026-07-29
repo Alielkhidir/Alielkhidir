@@ -39,20 +39,14 @@ I'm continuously improving my skills through hands-on labs, certifications, and 
 <img src="https://skillicons.dev/icons?i=linux,windows,python,bash,git,github,vscode" />
 </p>
 
-## 🚀 Projects
+## 🚀 Featured Project
 
 ### 🛡️ SOC Labs
 
-Hands-on cybersecurity labs covering:
+A collection of hands-on cybersecurity labs, investigation notes, incident reports, and detection rule templates documenting my journey toward becoming a Security Operations Center (SOC) Analyst.
 
-- Security Operations
-- Threat Detection
-- Incident Response
-- Log Analysis
-- Blue Team Techniques
-
-🔗 [View SOC-Labs Repository](ضع-الرابط-هنا)
-
+**Repository:**  
+🔗 https://github.com/Alielkhidir/SOC-Labs
 ## 📜 Certifications
 
 - ✅ ISC2 Certified in Cybersecurity (CC)
