@@ -38,7 +38,20 @@ I'm continuously improving my skills through hands-on labs, certifications, and 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=linux,windows,python,bash,git,github,vscode" />
 </p>
----
+
+## 🚀 Projects
+
+### 🛡️ SOC Labs
+
+Hands-on cybersecurity labs covering:
+
+- Security Operations
+- Threat Detection
+- Incident Response
+- Log Analysis
+- Blue Team Techniques
+
+🔗 [View SOC-Labs Repository](ضع-الرابط-هنا)
 
 ## 📜 Certifications
 
