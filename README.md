@@ -33,17 +33,11 @@ I'm continuously improving my skills through hands-on labs, certifications, and 
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-- Windows
-- Linux
-- Networking
-- Wireshark
-- Nmap
-- Burp Suite
-- SIEM
-- MITRE ATT&CK
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=linux,windows,python,bash,git,github,vscode" />
+</p>
 ---
 
 ## 📜 Certifications
