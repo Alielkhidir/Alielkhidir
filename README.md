@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.jpeg" alt="Banner" width="100%">
+</p>
+
 # Hi, I'm Ali 👋
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Blue-blue?style=for-the-badge)
