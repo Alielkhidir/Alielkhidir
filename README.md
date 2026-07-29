@@ -46,7 +46,7 @@ I'm continuously improving my skills through hands-on labs, certifications, and 
 A collection of hands-on cybersecurity labs, investigation notes, incident reports, and detection rule templates documenting my journey toward becoming a Security Operations Center (SOC) Analyst.
 
 **Repository:**  
-🔗 https://github.com/Alielkhidir/SOC-Labs
+<a href="https://github.com/Alielkhidir/SOC-Labs">🔗SOC Labs<a/> 
 ## 📜 Certifications
 
 - ✅ ISC2 Certified in Cybersecurity (CC)
