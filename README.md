@@ -56,7 +56,19 @@ A collection of hands-on cybersecurity labs, investigation notes, incident repor
 
 ---
 
-## 📫 Contact
+## 📫 Let's Connect
 
-- LinkedIn: *(ضع الرابط لاحقًا)*
-- Email: *(ضع بريدك لاحقًا)*
+<p align="left">
+  <a href="https://www.linkedin.com/in/alielkhidir/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:be.alielkhidir@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.credly.com/users/ali.elkhidir">
+    <img src="https://img.shields.io/badge/Credly-My%20Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly">
+  </a>
+  <a href="https://tryhackme.com/p/be.alielkhidir?utm_campaign=social_share&utm_medium=social&utm_content=profile&cardVersion=4a34fe2938c9&utm_source=copy&share_date=2026-11-05&sharerId=688f1182673bcc4784cf4a8a">
+    <img src="https://img.shields.io/badge/TryHackMe-My%20Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
+  </a>
+</p>
