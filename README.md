@@ -12,12 +12,12 @@
 
 
 
----
+
 
 ## 👋 About Me
 
 Aspiring SOC Analyst building hands-on Blue Team skills in log analysis, detection, and incident response. ISC2 CC certified, preparing for Security+. I publish my labs here to show how I think and learn. Looking for an entry-level SOC or security analyst role.
----
+
 
 ## 🎯 Currently Learning
 
