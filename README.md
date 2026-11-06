@@ -9,18 +9,14 @@
 ![Blue Team](https://img.shields.io/badge/Blue-Team-0078D4?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-Experienced-black?style=for-the-badge&logo=linux)
 ![Windows](https://img.shields.io/badge/Windows-Security-0078D6?style=for-the-badge&logo=windows)
-![Python](https://img.shields.io/badge/Python-Learning-yellow?style=for-the-badge&logo=python)
 
-**Cybersecurity | SOC Analyst | Blue Team**
+
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-I'm a cybersecurity learner passionate about Blue Team operations, Security Operations Centers (SOC), and Threat Detection.
-
-I'm continuously improving my skills through hands-on labs, certifications, and practical security projects.
-
+Aspiring SOC Analyst building hands-on Blue Team skills in log analysis, detection, and incident response. ISC2 CC certified, preparing for Security+. I publish my labs here to show how I think and learn. Looking for an entry-level SOC or security analyst role.
 ---
 
 ## 🎯 Currently Learning
@@ -28,8 +24,6 @@ I'm continuously improving my skills through hands-on labs, certifications, and 
 - CompTIA Security+
 - Splunk
 - Microsoft Sentinel
-- Threat Hunting
-- Incident Response
 
 ---
 
@@ -46,7 +40,9 @@ I'm continuously improving my skills through hands-on labs, certifications, and 
 A collection of hands-on cybersecurity labs, investigation notes, incident reports, and detection rule templates documenting my journey toward becoming a Security Operations Center (SOC) Analyst.
 
 **Repository:**  
-<a href="https://github.com/Alielkhidir/SOC-Labs">🔗SOC Labs<a/> 
+<a href="https://github.com/Alielkhidir/SOC-Labs">
+  <img src="https://img.shields.io/badge/SOC%20Labs-View%20Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="SOC Labs Repository">
+</a><a/> 
 ## 📜 Certifications
 
 - ✅ ISC2 Certified in Cybersecurity (CC)
