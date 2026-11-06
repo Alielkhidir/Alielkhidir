@@ -25,7 +25,7 @@ Aspiring SOC Analyst building hands-on Blue Team skills in log analysis, detecti
 - Splunk
 - Microsoft Sentinel
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -50,7 +50,7 @@ A collection of hands-on cybersecurity labs, investigation notes, incident repor
 - ✅ IBM Cybersecurity Analyst
 - ⏳ CompTIA Security+ (In Progress)
 
----
+
 
 ## 📫 Let's Connect
 
