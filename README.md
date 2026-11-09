@@ -21,7 +21,7 @@ I publish my labs here to show how I think and learn. I'm open to entry-level SO
 
 A growing collection of hands-on labs, investigation notes, incident reports, and detection rule templates. I add to it every time I finish a new lab.
 
-<a href="https://github.com/Alielkhidir/SOC-Labs"><img src="badges/soc-labs.png" alt="Open the SOC Labs repository" height="46"></a>
+<a href="https://github.com/Alielkhidir/SOC-Labs"><img src="badges/soc-labs.png" alt="Open the SOC Labs repository" height="40"></a>
 
 <!--
 Optional: delete the opening and closing comment lines to show your latest labs here,
