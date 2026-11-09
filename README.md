@@ -40,7 +40,7 @@ after replacing the example row with a real lab.
 |---|---|---|---|
 | Certified in Cybersecurity (CC) | ISC2 | Jul 2026 (valid to Jul 2029) | [Credly](https://www.credly.com/badges/8fa77006-d6c1-4967-9960-9d7dafa370df/linked_in_profile) |
 | Google Cybersecurity Professional Certificate V2 | Google / Coursera | Jul 2025 | [Credly](https://www.credly.com/badges/902c5248-6e00-4e55-8259-40b607292620/linked_in_profile) |
-| IBM Cybersecurity Analyst Professional Certificate V2 | IBM / Coursera | Nov 2025 | [Coursera](https://www.coursera.org/account/accomplishments/specialization/IK6E8D5ZS9EY) |
+| IBM Cybersecurity Analyst Professional Certificate V2 | IBM / Coursera | Nov 2025 | [Credly](https://www.credly.com/badges/17428985-afd4-4d3e-8fe7-aecf14dbc27a) |
 | CompTIA Security+ | CompTIA | In progress | |
 
 <details>
