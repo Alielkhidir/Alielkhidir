@@ -1,23 +1,37 @@
 <p align="center">
-  <img src="github-banner.png" alt="Banner" width="100%">
+  <img src="github-banner.png" alt="Ali Elkhidir – SOC Analyst | Blue Team" width="100%">
 </p>
 
 # Hi, I'm Ali 👋
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Blue-blue?style=for-the-badge)
-![SOC](https://img.shields.io/badge/SOC-Analyst-success?style=for-the-badge)
-![Blue Team](https://img.shields.io/badge/Blue-Team-0078D4?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-Experienced-black?style=for-the-badge&logo=linux)
-![Windows](https://img.shields.io/badge/Windows-Security-0078D6?style=for-the-badge&logo=windows)
+**Junior SOC Analyst | Blue Team | Threat Detection & Incident Response**
 
+![ISC2](https://img.shields.io/badge/ISC2-CC%20Certified-0A66C2?style=for-the-badge)
+![Google](https://img.shields.io/badge/Google-Cybersecurity%20Certified-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![IBM](https://img.shields.io/badge/IBM-Cybersecurity%20Analyst-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![Open to](https://img.shields.io/badge/Open%20to-Remote%20Roles-2EA44F?style=for-the-badge)
 
+---
 
+## 👨‍💻 About Me
 
+Junior SOC analyst focused on threat detection, log analysis, and incident response. I'm ISC2 CC certified, hold the Google Cybersecurity and IBM Cybersecurity Analyst professional certificates, and have earned 13 IBM skills badges.
 
-## 👋 About Me
+Before cybersecurity, I built and ran my own trading and distribution business, which taught me to negotiate, work independently, and stay accountable without supervision.
 
-Aspiring SOC Analyst building hands-on Blue Team skills in log analysis, detection, and incident response. ISC2 CC certified, preparing for Security+. I publish my labs here to show how I think and learn. Looking for an entry-level SOC or security analyst role.
+I publish my labs here to show how I think and learn. I'm looking for an entry-level SOC or security analyst role, remote included.
 
+---
+
+## 🔍 What I Practice
+
+- Triaging alerts and separating real threats from noise
+- Windows event log and Linux log analysis
+- Writing up investigations and incident reports
+- Building detection rule templates
+- Network traffic analysis, plus hands-on practice on TryHackMe and in CTFs
+
+---
 
 ## 🎯 Currently Learning
 
@@ -25,32 +39,58 @@ Aspiring SOC Analyst building hands-on Blue Team skills in log analysis, detecti
 - Splunk
 - Microsoft Sentinel
 
-
+---
 
 ## 🛠️ Tech Stack
 
+| Area | Tools |
+|---|---|
+| Detection & analysis | Splunk, Microsoft Sentinel (learning), Windows Event Logs |
+| Network | Wireshark, Nmap, TCP/IP, DNS, DHCP |
+| Systems | Linux, Kali Linux, Windows |
+| Security testing | Burp Suite, TryHackMe |
+| Scripting & tools | Python (basic), Bash, Git, GitHub, VS Code |
+
 <p align="left">
-<img src="https://skillicons.dev/icons?i=linux,windows,python,bash,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,python,bash,git,github,vscode" alt="Tech stack icons" />
 </p>
+
+---
 
 ## 🚀 Featured Project
 
 ### 🛡️ SOC Labs
 
-A collection of hands-on cybersecurity labs, investigation notes, incident reports, and detection rule templates documenting my journey toward becoming a Security Operations Center (SOC) Analyst.
+A growing collection of hands-on cybersecurity labs, investigation notes, incident reports, and detection rule templates. I add to it every time I finish a new lab.
 
-**Repository:**  
 <a href="https://github.com/Alielkhidir/SOC-Labs">
   <img src="https://img.shields.io/badge/SOC%20Labs-View%20Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="SOC Labs Repository">
-</a><a/> 
+</a>
+
+<!--
+Optional: delete the comment markers (the opening and closing lines) to show your latest labs here, after replacing the example row with a real lab.
+
+### Latest Labs
+
+| Lab | Tools | What I practiced |
+|---|---|---|
+| [Lab title](https://github.com/Alielkhidir/SOC-Labs/tree/main/FOLDER) | Splunk | One-line summary |
+-->
+
+---
+
 ## 📜 Certifications
 
-- ✅ ISC2 Certified in Cybersecurity (CC)
-- ✅ Google Cybersecurity Professional Certificate
-- ✅ IBM Cybersecurity Analyst
-- ⏳ CompTIA Security+ (In Progress)
+| Certification | Issuer | Date | Verify |
+|---|---|---|---|
+| ✅ Certified in Cybersecurity (CC) | ISC2 | Jul 2026 (valid to Jul 2029) | [Credly](https://www.credly.com/badges/8fa77006-d6c1-4967-9960-9d7dafa370df/linked_in_profile) |
+| ✅ Google Cybersecurity Professional Certificate V2 | Google / Coursera | Jul 2025 | [Credly](https://www.credly.com/badges/902c5248-6e00-4e55-8259-40b607292620/linked_in_profile) |
+| ✅ IBM Cybersecurity Analyst Professional Certificate V2 | IBM / Coursera | Nov 2025 | [Coursera](https://www.coursera.org/account/accomplishments/specialization/IK6E8D5ZS9EY) |
+| ⏳ CompTIA Security+ | CompTIA | In progress | |
 
+Also earned 13 IBM skills badges (incident response and digital forensics, threat hunting, networking, operating systems, compliance frameworks and more), and 27 ACE-recommended college credit hours through these credentials. All verifiable on [Credly](https://www.credly.com/users/ali.elkhidir).
 
+---
 
 ## 📫 Let's Connect
 
@@ -62,9 +102,9 @@ A collection of hands-on cybersecurity labs, investigation notes, incident repor
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.credly.com/users/ali.elkhidir">
-    <img src="https://img.shields.io/badge/Credly-My%20Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly">
+    <img src="https://img.shields.io/badge/Credly-My%20Badges-FF6B00?style=for-the-badge" alt="Credly">
   </a>
-  <a href="https://tryhackme.com/p/be.alielkhidir?utm_campaign=social_share&utm_medium=social&utm_content=profile&cardVersion=4a34fe2938c9&utm_source=copy&share_date=2026-11-05&sharerId=688f1182673bcc4784cf4a8a">
+  <a href="https://tryhackme.com/p/be.alielkhidir">
     <img src="https://img.shields.io/badge/TryHackMe-My%20Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
   </a>
 </p>
