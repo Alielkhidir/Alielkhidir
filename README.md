@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alielkhidir/"><img src="https://img.shields.io/badge/LinkedIn-alielkhidir-22d3ee?style=flat-square&labelColor=0f172a" alt="LinkedIn"></a>
-  <a href="mailto:be.alielkhidir@gmail.com"><img src="https://img.shields.io/badge/Email-be.alielkhidir@gmail.com-22d3ee?style=flat-square&labelColor=0f172a" alt="Email"></a>
-  <a href="https://www.credly.com/users/ali.elkhidir"><img src="https://img.shields.io/badge/Credly-ali.elkhidir-22d3ee?style=flat-square&labelColor=0f172a" alt="Credly"></a>
-  <a href="https://tryhackme.com/p/be.alielkhidir"><img src="https://img.shields.io/badge/TryHackMe-be.alielkhidir-22d3ee?style=flat-square&labelColor=0f172a" alt="TryHackMe"></a>
+  <a href="https://www.linkedin.com/in/alielkhidir/"><img src="badges/linkedin.png" alt="LinkedIn" height="30"></a>
+  <a href="mailto:be.alielkhidir@gmail.com"><img src="badges/email.png" alt="Email" height="30"></a>
+  <a href="https://www.credly.com/users/ali.elkhidir"><img src="badges/credly.png" alt="Credly" height="30"></a>
+  <a href="https://tryhackme.com/p/be.alielkhidir"><img src="badges/tryhackme.png" alt="TryHackMe" height="30"></a>
 </p>
 
 ## About
@@ -21,7 +21,7 @@ I publish my labs here to show how I think and learn. I'm open to entry-level SO
 
 A growing collection of hands-on labs, investigation notes, incident reports, and detection rule templates. I add to it every time I finish a new lab.
 
-<a href="https://github.com/Alielkhidir/SOC-Labs"><img src="https://img.shields.io/badge/Open-SOC%20Labs-22d3ee?style=for-the-badge&labelColor=0f172a&logo=github&logoColor=white" alt="SOC Labs"></a>
+<a href="https://github.com/Alielkhidir/SOC-Labs"><img src="badges/soc-labs.png" alt="Open the SOC Labs repository" height="46"></a>
 
 <!--
 Optional: delete the opening and closing comment lines to show your latest labs here,
